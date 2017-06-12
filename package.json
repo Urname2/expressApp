@@ -1,0 +1,21 @@
+{
+  "name": "express",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git"
+  },
+  "engines": {
+    "node": "8.0.0"
+  },
+  "description": "Enkel versjon av express",
+  "main": "index.js",
+  "author": "Jørgen Brække",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.13.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
